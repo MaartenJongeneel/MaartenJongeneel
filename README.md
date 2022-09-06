@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋! I'm a mechanical engineer from the Netherlands and PhD candidate within the department of Mechanical Engineering at the Eindhoven University of Technology, focussing mainly on robotic applications in logistics.
 
 <!--
 **MaartenJongeneel/MaartenJongeneel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
